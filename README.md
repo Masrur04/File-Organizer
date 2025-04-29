@@ -15,6 +15,7 @@ Built with Python and a minimal Tkinter GUI.
 
 📂 File Categories
 Files will be sorted into these folders:
+
 Images:.jpg, .jpeg, .png, .gif, .bmp
 
 Documents:.pdf, .docx, .doc, .txt, .pptx, .xlsx
