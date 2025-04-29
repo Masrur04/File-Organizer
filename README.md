@@ -15,13 +15,16 @@ Built with Python and a minimal Tkinter GUI.
 
 📂 File Categories
 Files will be sorted into these folders:
-Category	Extensions
-Images	.jpg, .jpeg, .png, .gif, .bmp
-Documents	.pdf, .docx, .doc, .txt, .pptx, .xlsx
-Videos	.mp4, .avi, .mov, .mkv
-Music	.mp3, .wav, .flac
-Archives	.zip, .rar, .tar, .gz
-Scripts	.py, .js, .html, .css
-Others	Any file not matching above
+Images:.jpg, .jpeg, .png, .gif, .bmp
+
+Documents:.pdf, .docx, .doc, .txt, .pptx, .xlsx
+
+Videos: .mp4, .avi, .mov, .mkv
+
+Music: .mp3, .wav, .flac
+
+Archives: .zip, .rar, .tar, .gz
+Scripts: .py, .js, .html, .css
+Others: Any file not matching above
 
 
